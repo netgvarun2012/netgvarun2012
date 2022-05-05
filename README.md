@@ -27,7 +27,7 @@ Matplotlib, Scikit-learn, Pytorch, and Tensorflow deep learning frameworks.
 
 - I have worked across geographies in countries like Canada, Australia, SouthKorea, the Philippines & the Middle East where he has interacted with clients as a technical consultant solving mission-critical issues as well as leading teams to deliver solutions as per their requirements.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+#<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
 
 **Talking about Personal Stuffs:**
