@@ -18,7 +18,7 @@
 
 I am a passionate data scientist currently working for a startup named Textify.ai where I have been leading the efforts of building an AI-powered writing tool using Natural Language Processing techniques and deep learning.
 
-During this role, I have developed novel features like ‘automated essay grading tool’, ‘predictive writing tool’, ‘grammar corrector’, ‘AI proof reader’ using the latest AI technologies. I have been part of the full lifecycle of product creation, from development to deployment where he has gotten exposure to using cloud 
+During this role, I have developed novel features like **‘automated essay grading tool’**, **‘predictive writing tool’**, **‘grammar corrector’**, **‘AI proof reader’** using the latest AI technologies. I have been part of the full lifecycle of product creation, from development to deployment where he has gotten exposure to using cloud 
 frameworks like ‘AWS’ and ‘AZURE’ frameworks to train and host the machine learning models.
 
 I have worked extensively on tools/libraries/APIs such as HuggingFace, OpenAI, transformers architectures, and libraries like Spacy, Numpy, Scipy, Pandas, 
