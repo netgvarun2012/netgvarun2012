@@ -16,18 +16,18 @@
 
 <br />
 
-I am a passionate data scientist currently working for a startup named Textify.ai where I have been leading the efforts of building an AI-powered writing tool using Natural Language Processing techniques and deep learning.
+- I am a passionate data scientist currently working for a startup named Textify.ai where I have been leading the efforts of building an AI-powered writing tool using Natural Language Processing techniques and deep learning.
 
-During this role, I have developed novel features like **‘automated essay grading tool’**, **‘predictive writing tool’**, **‘grammar corrector’**, **‘AI proof reader’** using the latest AI technologies. 
+- During this role, I have developed novel features like **‘automated essay grading tool’**, **‘predictive writing tool’**, **‘grammar corrector’**, **‘AI proof reader’** using the latest AI technologies. 
 
-I have been part of the full lifecycle of product creation, from development to deployment and have gotten exposure to using cloud frameworks like ‘AWS’ and ‘AZURE’ frameworks to train and host the machine learning models.
+- I have been part of the full lifecycle of product creation, from development to deployment and have gotten exposure to using cloud frameworks like ‘AWS’ and ‘AZURE’ frameworks to train and host the machine learning models.
 
-I have worked extensively on tools/libraries/APIs such as HuggingFace, OpenAI, transformers architectures, and libraries like Spacy, Numpy, Scipy, Pandas, 
+- I have worked extensively on tools/libraries/APIs such as HuggingFace, OpenAI, transformers architectures, and libraries like Spacy, Numpy, Scipy, Pandas, 
 Matplotlib, Scikit-learn, Pytorch, and Tensorflow deep learning frameworks.
 
-Prior to this engagement,I have been very successful in software dev/machine learning roles and brings with him rich experience spanning more than 14 years. 
+- Prior to this engagement,I have been very successful in software dev/machine learning roles and brings with him rich experience spanning more than 14 years. 
 
-I have worked across geographies in countries like Canada, Australia, SouthKorea, the Philippines & the Middle East where he has interacted with clients as a technical consultant solving mission-critical issues as well as leading teams to deliver solutions as per their requirements.
+- I have worked across geographies in countries like Canada, Australia, SouthKorea, the Philippines & the Middle East where he has interacted with clients as a technical consultant solving mission-critical issues as well as leading teams to deliver solutions as per their requirements.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
