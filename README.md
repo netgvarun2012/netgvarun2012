@@ -1,29 +1,32 @@
-### Hello World 👋 It's [Saket!](https://sakigo9.github.io/MyPortfolio/)
+### Hello World 👋 It's Varun!
 
 <br/>
 
 
-<a href="https://twitter.com/sakigo_09">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="http://linkedin.com/in/varun-sharma-49999712/">
+<img align="left" alt="Varun Sharma" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.linkedin.com/in/saket-prag-31b972157/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://medium.com/@sharmavarun.cs/">
+<img align="left" alt="Varun Sharma" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://medium.com/@saketprag322">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.instagram.com/sakigo_09/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/watch?v=eXlaZbQ0TiY&t=3s">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href="https://www.instagram.com/netgvarun2005/">
+<img align="left" alt="Varun Sharma" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
 
 <br />
 
-Hi,I'm Saket Prag🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+I am a passionate data scientist currently working for a startup named Textify.ai where he has been leading the effortsof building an AI-powered writing tool using Natural Language Processing techniques and deep learning.
 
+During this role, I have developed novel features like ‘automated essay grading tool’, ‘predictive writing tool’, ‘grammar corrector’, ‘AI proof reader’ using the latest AI technologies. I have been part of the full lifecycle of product creation, from development to deployment where he has gotten exposure to using cloud 
+frameworks like ‘AWS’ and ‘AZURE’ frameworks to train and host the machine learning models.
+
+I have worked extensively on tools/libraries/APIs such as HuggingFace, OpenAI, transformers architectures, and libraries like Spacy, Numpy, Scipy, Pandas, 
+Matplotlib, Scikit-learn, Pytorch, and Tensorflow deep learning frameworks.
+
+Prior to this engagement,I have been very successful in software dev/machine learning roles and brings with him rich experience spanning more than 14 years. 
+
+I have worked across geographies in countries like Canada, Australia, SouthKorea, the Philippines & the Middle East where he has interacted with clients as a technical consultant solving mission-critical issues as well as leading teams to deliver solutions as per their requirements.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
 
