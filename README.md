@@ -36,7 +36,7 @@ Matplotlib, Scikit-learn, Pytorch, and Tensorflow deep learning frameworks.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 - ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
-- 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
+- 📝[Portfolio](https://netgvarun2012.github.io/PianoAnalysisDeepLearning/)
 - ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
 
 
