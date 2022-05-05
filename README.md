@@ -20,8 +20,6 @@
 
 - During this role, I have developed novel features like **‘automated essay grading tool’**, **‘predictive writing tool’**, **‘grammar corrector’**, **‘AI proof reader’** using the latest AI technologies. 
 
-- I have been part of the full lifecycle of product creation, from development to deployment and have gotten exposure to using cloud frameworks like ‘AWS’ and ‘AZURE’ frameworks to train and host the machine learning models.
-
 - I have worked extensively on tools/libraries/APIs such as HuggingFace, OpenAI, transformers architectures, and libraries like Spacy, Numpy, Scipy, Pandas, 
 Matplotlib, Scikit-learn, Pytorch, and Tensorflow deep learning frameworks.
 
