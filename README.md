@@ -27,7 +27,8 @@ Matplotlib, Scikit-learn, Pytorch, and Tensorflow deep learning frameworks.
 
 - I have worked across geographies in countries like Canada, Australia, SouthKorea, the Philippines & the Middle East where he has interacted with clients as a technical consultant solving mission-critical issues as well as leading teams to deliver solutions as per their requirements.
 
-
+**See my work at**
+TextifyAI(https://textify.ai/)
 
 **Talking about Personal Stuffs:**
 
@@ -38,9 +39,6 @@ Matplotlib, Scikit-learn, Pytorch, and Tensorflow deep learning frameworks.
 - ⚡ Check out my recent [Blogs](https://medium.com/@sharmavarun.cs)
 - 📝[Portfolio](https://netgvarun2012.github.io/PianoAnalysisDeepLearning/)
 
-
-**See my work at**
-TextifyAI(https://textify.ai/)
 
 **Languages and Tools:**
 
