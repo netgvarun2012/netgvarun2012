@@ -39,7 +39,7 @@ Matplotlib, Scikit-learn, Pytorch, and Tensorflow deep learning frameworks.
 - 📝[Portfolio](https://netgvarun2012.github.io/PianoAnalysisDeepLearning/)
 
 
-** See my work at ***
+**See my work at**
 TextifyAI(https://textify.ai/)
 
 **Languages and Tools:**
