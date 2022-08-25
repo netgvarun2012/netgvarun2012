@@ -35,7 +35,7 @@ Matplotlib, Scikit-learn, Pytorch, and Tensorflow deep learning frameworks.
 - :musical_keyboard: I’m also a piano player and have tried doing experiments of AI with piano! 
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
-- ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
+- ⚡ Check out my recent [Blogs](https://medium.com/@sharmavarun.cs)
 - 📝[Portfolio](https://netgvarun2012.github.io/PianoAnalysisDeepLearning/)
 
 
