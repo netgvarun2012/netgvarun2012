@@ -1,4 +1,4 @@
-### Hello World 👋 It's Varun!
+### Hello!
 
 <br/>
 
