@@ -29,7 +29,7 @@ Matplotlib, Scikit-learn, Pytorch, and Tensorflow deep learning frameworks.
 
 **See my work at**
 
-TextifyAI(https://textify.ai/)
+TextifyAI(https://textify.ai/)  & https://www.admissionessay.us/
 
 **Talking about Personal Stuffs:**
 
