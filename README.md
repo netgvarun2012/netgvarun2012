@@ -42,8 +42,8 @@ Matplotlib, Scikit-learn, Pytorch, and Tensorflow deep learning frameworks.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
 - ⚡ Check out my recent [Blogs](https://medium.com/@sharmavarun.cs)
-- 📝[Portfolio](https://netgvarun2012.github.io/PianoAnalysisDeepLearning/)
-
+- 📝[Mini Portfolio](https://netgvarun2012.github.io/PianoAnalysisDeepLearning/)
+- 📝[Main Portfolio](https://netgvarun2012.github.io/portfolio/)
 
 **Languages and Tools:**
 
