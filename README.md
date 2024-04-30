@@ -18,7 +18,7 @@
 
 - I am Varun, a passionate data scientist currently working as an AI and Cybersecurity researcher at ST Engineering.
 
-- My research involves around Generative AI security and how to make Large language models more robust to attacks like Jailbreaks, Data/Model poisoning, Prompt injections and others.
+- My research focuses on Generative AI security and how to make Large language models more robust to attacks like Jailbreaks, Data/Model poisoning, Prompt injections and others.
 
 - I pusued my masters from NUS Singapore. Previously, I have been working for a startup named Textify.ai where I have been leading the efforts of building an AI-powered writing tool using Natural Language Processing techniques and deep learning.
 
