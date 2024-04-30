@@ -29,7 +29,7 @@ Matplotlib, Scikit-learn, Pytorch, and Tensorflow deep learning frameworks.
 
 - Prior to this engagement,I have been very successful in software dev/machine learning roles and brings with him rich experience spanning more than a decade. 
 
-- I have worked across geographies in countries like Canada, Australia, SouthKorea, the Philippines & the Middle East where he has interacted with clients as a technical consultant solving mission-critical issues as well as leading teams to deliver solutions as per their requirements.
+- I have worked across geographies in countries like Canada, Australia, SouthKorea, the Philippines & the Middle East where I got to interact with clients as a technical consultant solving mission-critical issues as well as leading teams to deliver solutions as per their requirements.
 
 **See my work at**
 
